@@ -11,10 +11,10 @@ I built both from scratch, starting from a client user story and a raw dataset.
 ## Dashboards
 
 ### Sales Dashboard
-![Sales Dashboard](images/sales-dashboard.png)
+![Sales Dashboard](Dashboard-images/sales-dashboard.png)
 
 ### Customer Dashboard
-![Customer Dashboard](images/customer-dashboard.png)
+![Customer Dashboard](Dashboard-images/customer-dashboard.png)
 
 ---
 
@@ -104,27 +104,6 @@ Source: Kaggle (Superstore-style sales dataset). The data is split into four tab
 - **Tableau** (Desktop / Public) for the dashboards
 - **Kaggle** for the dataset
 
----
-
-## Repository Structure
-
-```
-tableau-dashboards/
-├── README.md
-├── data/
-│   ├── Orders.csv
-│   ├── Customers.csv
-│   ├── Products.csv
-│   └── Location.csv
-├── docs/
-│   ├── Business_Requirements.docx
-│   └── Insights.docx
-├── images/
-│   ├── sales-dashboard.png
-│   ├── customer-dashboard.png
-│   └── charts/            (charts used in the Insights report)
-└── <your-workbook-name>.twbx
-```
 
 ---
 

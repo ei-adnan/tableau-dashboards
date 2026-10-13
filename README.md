@@ -11,7 +11,7 @@ I built both from scratch, starting from a client user story and a raw dataset.
 ## Dashboards
 
 ### Sales Dashboard
-![Sales Dashboard](Dashboard%20images/sales-db.png)
+![Sales Dashboard](Dashboard%20images/Sales-db.png)
 
 ### Customer Dashboard
 ![Customer Dashboard](Dashboard%20images/customer-db.png)

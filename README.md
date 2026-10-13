@@ -11,10 +11,10 @@ I built both from scratch, starting from a client user story and a raw dataset.
 ## Dashboards
 
 ### Sales Dashboard
-![Sales Dashboard](Dashboard-images/sales-dashboard.png)
+![Sales Dashboard](Dashboard%20images/sales-db.png)
 
 ### Customer Dashboard
-![Customer Dashboard](Dashboard-images/customer-dashboard.png)
+![Customer Dashboard](Dashboard%20images/customer-db.png)
 
 ---
 
